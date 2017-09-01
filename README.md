@@ -2,6 +2,8 @@
 
 This repository contains differen [Jupyter notebooks](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html) I created for my work.
 
+[![DOI](https://zenodo.org/badge/100687226.svg)](https://zenodo.org/badge/latestdoi/100687226)
+
 ## Aggregation
 
 ### Transmission
