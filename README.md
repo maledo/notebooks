@@ -4,6 +4,8 @@ This repository contains differen [Jupyter notebooks](https://jupyter-notebook-b
 
 [![DOI](https://zenodo.org/badge/100687226.svg)](https://zenodo.org/badge/latestdoi/100687226)
 
+New releases can be found at the [chair's repository](https://github.com/tum-ens/notebooks/releases).
+
 ## Aggregation
 
 ### Transmission
